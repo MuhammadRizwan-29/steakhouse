@@ -1,1 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&family=Yeseva+One&display=swap');
 @import "tailwindcss";
+
+@theme {
+    --font-varela: "Varela Round", sans-serif;
+    --font-yeseva: "Yeseva One", serif;
+
+    --color-orange-light: #efa765;
+    --color-orange-dark: #ffb168;
+    --color-body: #E0E0E0;
+}
